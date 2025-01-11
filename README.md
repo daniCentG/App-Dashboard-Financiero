@@ -1,7 +1,10 @@
 # Dashboard Financiero
 
 ## Descripción
-Dashboard Financiero es una aplicación para gestionar y visualizar tus finanzas personales.
+App-Dashboard-Financiero es una aplicación para gestionar y visualizar tus finanzas personales.
+Lo he implementado en React.Js y lo he complementando con Tailwind CSS para la parte visual.
+
+Aquí tienes una DEMO: 
 
 ## Características
 - Visualización de ingresos y gastos
@@ -12,7 +15,7 @@ Dashboard Financiero es una aplicación para gestionar y visualizar tus finanzas
 ## Instalación
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/dashboard-financiero.git
+    git clone https://github.com/daniCentG/App-Dashboard-Financiero.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
@@ -28,7 +31,4 @@ Dashboard Financiero es una aplicación para gestionar y visualizar tus finanzas
     ```bash
     npm start
     ```
-2. Abre tu navegador y ve a `http://localhost:3000`
-
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+2. Abre tu navegador y ve a `http://localhost:3000`(Por lo general al ejecutar "npm start" ya abre automáticamente el proyecto en el navegador)
